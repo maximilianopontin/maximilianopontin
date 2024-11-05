@@ -1,7 +1,7 @@
-#                                                                    👋 Hola, soy Maximiliano Pontin
-##                                                                      Desarrollador Web Full Stack 
+#                                                                   👋 Hola, soy Maximiliano Pontin
+##                                                                    Desarrollador Web Full Stack 
 
-📜 Sobre Mí
+###📜 Sobre Mí
 
 Soy desarrollador web full stack apasionado por la creación de aplicaciones innovadoras y funcionales. Me gradué en Tecnología de los Alimentos, pero he decidido seguir mi pasión por la programación. Tengo conocimientos en tanto desarrollo frontend como backend, y estoy listo para contribuir y aprender en proyectos de distintos tipos.
 
@@ -10,19 +10,19 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 
 📫 Cómo contactarme: maxipontin92@gmail.com
 
-🛠️ Habilidades:
+###🛠️ Habilidades:
 
 - Frontend:  HTML, CSS, JavaScript, React, Bootstrap
 - Backend: Node.js, NestJS, TypeORM, MySQL, MongoDB, Apis REST, conocimientos en autenticación y autorización (JWT), seguridad
 - Despliegue: Clever Cloud, Render
 - Metodologías Ágil: Scrum
 
-Educación:
+###Educación:
 
-Licenciado en Tecnología de los Alimentos
-Desarrollador Web Full Stack
+- Licenciado en Tecnología de los Alimentos
+- Desarrollador Web Full Stack
 
-📫 Contacto:
+###📫 Contacto:
 
-GitHub: [https://github.com/maximilianopontin]
-LinkedIn: [https://www.linkedin.com/in/maximiliano-pontin-/]
+- GitHub: [https://github.com/maximilianopontin]
+- LinkedIn: [https://www.linkedin.com/in/maximiliano-pontin-/]
