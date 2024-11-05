@@ -1,5 +1,5 @@
 #                                                                    👋 Hola, soy Maximiliano Pontin
-                                                                      Desarrollador Web Full Stack 
+##                                                                      Desarrollador Web Full Stack 
 
 📜 Sobre Mí
 
@@ -12,10 +12,10 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 
 🛠️ Habilidades:
 
-Frontend:  HTML, CSS, JavaScript, React, Bootstrap
-Backend: Node.js, NestJS, TypeORM, MySQL, MongoDB, Apis REST, conocimientos en autenticación y autorización (JWT), seguridad
-Despliegue: Clever Cloud, Render
-Metodologías Ágil: Scrum
+- Frontend:  HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Node.js, NestJS, TypeORM, MySQL, MongoDB, Apis REST, conocimientos en autenticación y autorización (JWT), seguridad
+- Despliegue: Clever Cloud, Render
+- Metodologías Ágil: Scrum
 
 Educación:
 
