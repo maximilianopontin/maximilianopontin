@@ -15,7 +15,7 @@ Backend: Node.js, NestJS, TypeORM, MySQL, MongoDB, Apis REST, conocimientos en a
 Despliegue: Clever Cloud, Render
 Metodologías Ágil: Scrum
 
-Educación
+Educación:
 Licenciado en Tecnología de los Alimentos
 Desarrollador Web Full Stack
 
