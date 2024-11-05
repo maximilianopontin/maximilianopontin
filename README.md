@@ -1,4 +1,4 @@
-                                                                    👋 Hola, soy Maximiliano Pontin
+#                                                                    👋 Hola, soy Maximiliano Pontin
                                                                       Desarrollador Web Full Stack 
 
 📜 Sobre Mí
