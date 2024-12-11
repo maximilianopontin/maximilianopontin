@@ -27,4 +27,4 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 - LinkedIn: [https://www.linkedin.com/in/maximiliano-pontin-/]
 - E-mail:  maxipontin92@gmail.com
 
-### [Descargar mi CV](https://github.com/maximilianopontin/maximilianopontin/raw/main/curriculumvitaemaxiit.pdf)
+### [Descargar mi CV](https://github.com/maximilianopontin/maximilianopontin/raw/main/CVcurriculumvitaemaxiit.pdf)
