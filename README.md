@@ -8,7 +8,6 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 🌱 Actualmente aprendiendo: Avanzando en mis habilidades con el manejo de Nestjs, React, bases de datos relacionales.
 👯 Me interesa colaborar en proyectos de: Desarrollo de aplicaciones web, bases de datos y participar en proyectos desafiantes para seguir formandome y adquirir mis primeras experiencias.
 
-📫 Cómo contactarme: maxipontin92@gmail.com
 
 ### 🛠️ Habilidades:
 
@@ -26,3 +25,4 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 
 - GitHub: [https://github.com/maximilianopontin]
 - LinkedIn: [https://www.linkedin.com/in/maximiliano-pontin-/]
+- E-mail:  maxipontin92@gmail.com
