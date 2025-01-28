@@ -3,9 +3,9 @@
 
 ### 📜 Sobre Mí
 
-Soy desarrollador web full stack apasionado por la creación de aplicaciones innovadoras y funcionales.Tengo conocimientos en tanto desarrollo frontend como backend, y estoy listo para contribuir y aprender en proyectos de todo tipos.
+Soy desarrollador web full stack apasionado por la creación de aplicaciones innovadoras y funcionales. Tengo conocimientos en tanto desarrollo frontend como backend, y estoy listo para contribuir y aprender en proyectos de todo tipos.
 
-🌱 Actualmente aprendiendo: Avanzando en mis habilidades con el manejo de Nestjs, React, bases de datos relacionales.
+🌱 Actualmente: Avanzando en mis habilidades con el manejo de Nestjs, React, bases de datos relacionales.
 👯 Me interesa colaborar en proyectos de: Desarrollo de aplicaciones web, bases de datos y participar en proyectos desafiantes para seguir formandome y adquirir mis primeras experiencias.
 
 
@@ -26,4 +26,7 @@ Soy desarrollador web full stack apasionado por la creación de aplicaciones inn
 - GitHub: [https://github.com/maximilianopontin]
 - LinkedIn: [https://www.linkedin.com/in/maximiliano-pontin-/]
 - E-mail:  maxipontin92@gmail.com
+
+### Proyectos Recientes: 
+Creación de plataforma de música digital: https://soundgoodfront.onrender.com/
 
